@@ -1,12 +1,18 @@
-# meetGPT - AI Meeting Assistant
+# MeetGPT - AI Meeting Assistant
 
-meetGPT is a cutting-edge AI-powered meeting assistant designed to streamline your meeting workflows. Built with **Streamlit**, **Python** and powered by **OpenAI's GPT-3.5-turbo**, it provides an intuitive interface for interacting with meeting transcripts and generating actionable insights. 
+![Screenshot 2025-01-12 at 4 57 47 PM](https://github.com/user-attachments/assets/3d99646e-7b45-4811-8eef-aeddf52ff9fc)
+
+
+meetGPT is a cutting-edge AI-powered meeting assistant designed to streamline your meeting workflows. Built with **Streamlit** and powered by **OpenAI's GPT-3.5-turbo**, it provides an intuitive interface for interacting with meeting transcripts and generating actionable insights. 
 
 Whether you need quick summaries, detailed analyses, or personalized email generation, meetGPT has you covered!
 
 ---
 
 ## Features
+
+### Demo Video
+[Watch the demo video here](https://youtu.be/W8K9YPqnN2w)
 
 ### 1. **Meeting Summary**
 Generate concise or detailed summaries of meeting transcripts based on your selected level:
@@ -18,7 +24,7 @@ Generate concise or detailed summaries of meeting transcripts based on your sele
 Engage in an interactive, chat-like experience with GPT-3.5-turbo. Ask questions about the meeting transcript, and get contextual, insightful responses from the AI assistant.
 
 ### 3. **NameMention**
-Easily locate mentions of specific names within the meeting transcript, along with precise timestamps, to find out where you were mentioned.
+Easily locate mentions of specific names within the meeting transcript, along with precise timestamps.
 
 ### 4. **EmailGen**
 Effortlessly generate professional emails based on the meeting transcript. Input the recipient's name, subject, and content, and let meetGPT handle the rest.
@@ -109,6 +115,8 @@ This will start the Streamlit web application and open it in your default browse
 - Add support for real-time meeting transcription.
 - Integration with popular video conferencing platforms (e.g., Zoom, Microsoft Teams).
 - Enhanced analytics for meeting performance metrics.
+
+---
 
 ## Acknowledgments
 
