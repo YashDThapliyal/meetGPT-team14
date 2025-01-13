@@ -1,6 +1,6 @@
 # meetGPT - AI Meeting Assistant
 
-meetGPT is a cutting-edge AI-powered meeting assistant designed to streamline your meeting workflows. Built with **Streamlit** and powered by **OpenAI's GPT-3.5-turbo**, it provides an intuitive interface for interacting with meeting transcripts and generating actionable insights. 
+meetGPT is a cutting-edge AI-powered meeting assistant designed to streamline your meeting workflows. Built with **Streamlit**, **Python** and powered by **OpenAI's GPT-3.5-turbo**, it provides an intuitive interface for interacting with meeting transcripts and generating actionable insights. 
 
 Whether you need quick summaries, detailed analyses, or personalized email generation, meetGPT has you covered!
 
@@ -18,7 +18,7 @@ Generate concise or detailed summaries of meeting transcripts based on your sele
 Engage in an interactive, chat-like experience with GPT-3.5-turbo. Ask questions about the meeting transcript, and get contextual, insightful responses from the AI assistant.
 
 ### 3. **NameMention**
-Easily locate mentions of specific names within the meeting transcript, along with precise timestamps.
+Easily locate mentions of specific names within the meeting transcript, along with precise timestamps, to find out where you were mentioned.
 
 ### 4. **EmailGen**
 Effortlessly generate professional emails based on the meeting transcript. Input the recipient's name, subject, and content, and let meetGPT handle the rest.
@@ -110,6 +110,7 @@ This will start the Streamlit web application and open it in your default browse
 - Integration with popular video conferencing platforms (e.g., Zoom, Microsoft Teams).
 - Enhanced analytics for meeting performance metrics.
 
-
 ## Acknowledgments
+
+This project won **2nd place** at the Cisco CCE Program BridgeHacks Hackathon, showcasing its innovative approach to AI-assisted meeting solutions.
 Special thanks to CISCO, OpenAI and the Streamlit community for their incredible tools and support.
